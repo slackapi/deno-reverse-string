@@ -1,3 +1,7 @@
+### ⚠️ This sample has been archived and is no longer maintained.
+
+---
+
 # Reverse String
 
 This automation demonstrates reversing a string.
